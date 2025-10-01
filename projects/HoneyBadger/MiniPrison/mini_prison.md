@@ -69,9 +69,10 @@
 
 ## 📸 Скриншоты / Видео
 
-![gif](data/PrisonMain.gif)  
-![gif2](data/UpgradeCells.gif)  
-![gif3](data/Animations.gif)  
-![gif4](data/PrisonYard.gif)  
-![gif5](data/LocationProgress.gif)  
+![png](data/2.gif)  
+![png2](data/3.gif)  
+![png3](data/4.gif)  
+![png4](data/5.gif)  
+![png5](data/6.gif)  
+![png6](data/7.gif)  
 
