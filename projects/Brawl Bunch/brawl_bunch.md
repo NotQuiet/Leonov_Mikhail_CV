@@ -2,7 +2,7 @@
 # 🔥 Battlico.io
 
 <div align="center">
-  <img src="data/brawl_bunch_main_image.png" width="800" />
+  <img src="data/main.png" width="800" />
 </div>
 
 ## 📌 Краткое описание
@@ -61,6 +61,10 @@
 ---
 
 ## 📸 Скриншоты / Примеры
-![gif](data/match_screenshot1.gif)  
-![gif2](data/match_screenshot2.gif)  
-![gif3](data/match_screenshot3.gif)  
+![png](data/1.png)
+![png](data/2.png) 
+![png](data/3.png) 
+![png](data/4.png) 
+![png](data/5.png) 
+![png](data/6.png) 
+![png](data/7.png) 
