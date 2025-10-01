@@ -19,8 +19,6 @@
 👉 [Сайт проекта](https://fenomen-kids.ru/site/)  
 👉 [RuStore](https://www.rustore.ru/catalog/app/com.DefaultCompany.FenomenKids)  
 
-*(ссылки заменить на реальные, когда будут доступны)*
-
 ---
 
 ## 🧠 Основные механики FenomenKids
