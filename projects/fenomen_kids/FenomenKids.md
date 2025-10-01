@@ -69,7 +69,7 @@
 
 ## 📸 Скриншоты / Видео
 
-![screenshot1](fenomenkids1.jpg)  
+![gif](data/MainMenu.gif) 
 ![screenshot2](fenomenkids2.jpg)  
 ![screenshot3](fenomenkids3.jpg)
 
