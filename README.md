@@ -38,7 +38,8 @@
 - UI/UX-дизайн и логика интерфейсов  
 - Оптимизация кода и многопользовательский режим  
 
- **Подробнее:** [О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/Vanilla%20ArtStudio/vanilla.md)
+  **Подробнее:** [О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/Vanilla%20ArtStudio/vanilla.md)
+ 
 ---
 
 ### ⚔️ Operation Lead / Backend Unity Developer — Brawl Bunch  
