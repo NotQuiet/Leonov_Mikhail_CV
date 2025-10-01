@@ -1,7 +1,7 @@
 # 🔥 Zombie Hunter
 
 <div align="center">
-  <img src="data/zombie_hunter_main_image.png" width="800" />
+  <img src="data/main.png" width="800" />
 </div>
 
 ## 📌 Краткое описание
@@ -60,7 +60,10 @@
 ---
 
 ## 📸 Скриншоты / Примеры
-![gif](data/zombie_hunter_screenshot1.gif)  
-![gif2](data/zombie_hunter_screenshot2.gif)  
-![gif3](data/zombie_hunter_screenshot3.gif)  
+![png](data/1.png) 
+![png](data/2.png)
+![png](data/3.png)
+![png](data/4.png)
+![png](data/5.png)
+![png](data/6.png)
 
