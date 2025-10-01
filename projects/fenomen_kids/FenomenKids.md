@@ -16,7 +16,7 @@
 ---
 
 ## 🎮 Играбельная версия
-👉 [Сайт проекта](https://example.com](https://fenomen-kids.ru/site/))  
+👉 [Сайт проекта](https://fenomen-kids.ru/site/)  
 👉 [RuStore](https://www.rustore.ru/catalog/app/com.DefaultCompany.FenomenKids)  
 
 *(ссылки заменить на реальные, когда будут доступны)*
