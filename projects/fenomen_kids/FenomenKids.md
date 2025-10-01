@@ -1,6 +1,6 @@
 # 🔥 FenomenKids
 
-<div align="center"><img src="projects/fenomen_kids/data/fenomen_main_image.jpg" width="800" /></div>
+<div align="center"><img src="data/fenomen_main_image.png" width="800" /></div>
 
 ## 📌 Краткое описание
 **FenomenKids** — образовательная игровая платформа, где дети учатся играть в шахматы в игровой форме.  
