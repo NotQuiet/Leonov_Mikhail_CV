@@ -1,6 +1,6 @@
 # 🔥 HoneyBadger: Mini Prison
 
-<div align="center"><img src="data/mini_prison_main_image.png" width="800" /></div>
+<div align="center"><img src="data/MiniPrisonMain.png" width="800" /></div>
 
 ## 📌 Краткое описание
 **Mini Prison** — мобильный 3D-тайкун с видом сверху, в котором игрок развивает собственную тюрьму.  
