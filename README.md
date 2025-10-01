@@ -77,4 +77,4 @@
 ---
 
 📬 **Связаться со мной:**  
-[Telegram](https://t.me/) | [Email](mailto:mikhail.work.flow@gmail.com)
+[Telegram](https://t.me/vanillaatilla) | [Email](mailto:mikhail.work.flow@gmail.com)
