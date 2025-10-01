@@ -39,7 +39,7 @@
 - Unity 3D  
 - C# / .NET backend  
 - WebSockets / REST API  
-- Git / GitHub / CI  
+- Git / GitHub / CI/CD / Docker / Kafka / k8s 
 - MySQL / PostgreSQL (для серверных данных)  
 
 ---
