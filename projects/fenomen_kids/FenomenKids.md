@@ -70,4 +70,5 @@
 ## 📸 Скриншоты / Видео
 
 ![gif](data/MainMenu.gif) 
+![gif2](data/MainMenuGif.gif) 
 
