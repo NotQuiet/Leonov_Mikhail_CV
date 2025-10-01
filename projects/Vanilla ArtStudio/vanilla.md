@@ -1,6 +1,6 @@
 # 🔥 Vanilla ArtStudio
 
-<div align="center"><img src="data/Main.png" width="800" /></div>
+<div align="center"><img src="data/Main.jpg" width="800" /></div>
 
 ## 📌 Краткое описание
 **Vanilla ArtStudio** — небольшая студия по созданию 3D-ассетов для игр.  
