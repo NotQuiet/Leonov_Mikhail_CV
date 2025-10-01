@@ -19,11 +19,9 @@
 ---
 
 ## 📦 Демо / Ссылки
-👉 [Главная страница проекта Battlico.io](https://spacemotion.space/ux/ui/brawlbunch)
-
-- [Скины и сундуки](https://example.com/skins)  
-- [Кланы и друзья](https://example.com/clans)  
-- [Торговая площадка](https://example.com/market)  
+👉 [Battlico.io](https://www.f6s.com/company/battlico#about)
+👉 [Linkedin](https://www.linkedin.com/company/battlico/)
+👉 [X](https://x.com/battlico?lang=ru)
 
 ---
 
