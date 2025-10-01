@@ -15,13 +15,11 @@
 ---
 
 ## 📦 Публикации
-👉 [Главная страница Vanilla ArtStudio](https://assetstore.unity.com/publishers/your-publisher-id)  
+👉 [Главная страница Vanilla ArtStudio](https://assetstore.unity.com/publishers/83046)  
 
-- [Stylized Environment Pack](https://assetstore.unity.com/packages/slug1)  
-- [Low Poly Characters Pack](https://assetstore.unity.com/packages/slug2)  
-- [Fantasy Props Collection](https://assetstore.unity.com/packages/slug3)  
-
-*(замени ссылки на реальные из Asset Store)*  
+- [Low-Poly Medieval Village](https://assetstore.unity.com/packages/3d/environments/low-poly-medieval-village-274198)  
+- [Low-Poly Medieval Market](https://assetstore.unity.com/packages/3d/environments/low-poly-medieval-market-262473)  
+- [Low-poly Medieval Free Pack](https://assetstore.unity.com/packages/3d/environments/low-poly-medieval-free-pack-253520)  
 
 ---
 
