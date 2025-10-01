@@ -14,6 +14,17 @@
 
 ---
 
+## 📦 Публикации
+👉 [Главная страница Vanilla ArtStudio](https://assetstore.unity.com/publishers/your-publisher-id)  
+
+- [Stylized Environment Pack](https://assetstore.unity.com/packages/slug1)  
+- [Low Poly Characters Pack](https://assetstore.unity.com/packages/slug2)  
+- [Fantasy Props Collection](https://assetstore.unity.com/packages/slug3)  
+
+*(замени ссылки на реальные из Asset Store)*  
+
+---
+
 ## 🧠 Основные направления Vanilla ArtStudio
 - Создание 3D-моделей высокого качества (low-poly и stylized)  
 - Оптимизация ассетов для Unity (LOD, материалы, текстуры)  
@@ -54,4 +65,3 @@
 ![gif](data/Asset1.gif)  
 ![gif2](data/Asset2.gif)  
 ![gif3](data/Asset3.gif)  
-
