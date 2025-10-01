@@ -18,11 +18,7 @@
 ---
 
 ## 📦 Демо / Ссылки
-👉 [Главная страница проекта Zombie Hunter](https://example.com) *(замени на реальную ссылку)*  
-
-- [Боевые механики](https://example.com/combat)  
-- [Система врагов и боссов](https://example.com/enemies)  
-- [Сервисы игры (погода, звук)](https://example.com/services)  
+👉 [Главная страница проекта Zombie Hunter](https://play.google.com/store/apps/details?id=zombie.shooter.hunter.starwork)
 
 ---
 
@@ -37,7 +33,7 @@
 
 ## 🛠 Технологии
 - Unity 3D  
-- C# / .NET backend  
+- C#  
 - Blender / Maya  
 - Shader Graph / Visual Effects Graph  
 - Git / GitHub  
