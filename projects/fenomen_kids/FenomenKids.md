@@ -70,5 +70,14 @@
 ## 📸 Скриншоты / Видео
 
 ![gif](data/MainMenu.gif) 
-![gif2](data/MainMenuGif.gif) 
+![gif2](data/AIMatch.gif) 
+![gif3](data/CatDressing.gif) 
+![gif4](data/CreationDesk.gif) 
+![gif5](data/DressedPandsEating.gif) 
+![gif6](data/ForestLocation.gif) 
+![gif7](data/PandaDecorate.gif) 
+![gif8](data/PandaDressing.gif) 
+![gif9](data/PandaEating.gif) 
+![gif10](data/Statistic.gif) 
+![gif11](data/dressedCatEating.gif) 
 
