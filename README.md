@@ -85,11 +85,13 @@
 - **Инструменты:** Git, Jira, Asana  
 
 ---
+
 ## 🛠 Другие проекты
 
-[О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/ZombieHunter/zombie_hunter.md)
-[О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/ZombieHunter/zombie_hunter.md)
-[О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/ZombieHunter/zombie_hunter.md)
+ **Weather-Dogs:** [Weather-Dogs](https://github.com/NotQuiet/Weather-Dogs)
+ **Match3Example:** [Match3Example](https://github.com/NotQuiet/Match3ExampleNew)
+ **Turn-based-strategy** [Turn-based-strategy](https://github.com/NotQuiet/Turn-based-strategy)
+ 
 ---
 
 📬 **Связаться со мной:**  
