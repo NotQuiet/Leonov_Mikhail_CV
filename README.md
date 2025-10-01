@@ -88,9 +88,9 @@
 
 ## 🛠 Другие проекты
 
- **Weather-Dogs:** [Weather-Dogs](https://github.com/NotQuiet/Weather-Dogs)
- **Match3Example:** [Match3Example](https://github.com/NotQuiet/Match3ExampleNew)
- **Turn-based-strategy** [Turn-based-strategy](https://github.com/NotQuiet/Turn-based-strategy)
+- **Weather-Dogs:** [Weather-Dogs](https://github.com/NotQuiet/Weather-Dogs)
+- **Match3Example:** [Match3Example](https://github.com/NotQuiet/Match3ExampleNew)
+- **Turn-based-strategy** [Turn-based-strategy](https://github.com/NotQuiet/Turn-based-strategy)
  
 ---
 
