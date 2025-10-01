@@ -60,6 +60,11 @@
 
 ## 📸 Скриншоты / Примеры ассетов
 
-![ref][Low-Poly Medieval Village](https://www.youtube.com/watch?v=htZ7A0LnwjU)  
-![gif2](data/Asset2.gif)  
-![gif3](data/Asset3.gif)  
+![jpg](data/village.jpg)  
+[Low-Poly Medieval Village](https://www.youtube.com/watch?v=htZ7A0LnwjU)  
+
+![jpg](data/village.jpg)  
+[Low-Poly Medieval Village](https://www.youtube.com/watch?v=htZ7A0LnwjU) 
+
+![jpg](data/village.jpg)  
+[Low-Poly Medieval Village](https://www.youtube.com/watch?v=htZ7A0LnwjU) 
