@@ -16,7 +16,7 @@
 - Разработка фронтенда, бэкенда и базы данных  
 - DevOps-поддержка
 
-  **Подробнее:** [О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/projects/fenomen_kids/FenomenKids.md)
+  **Подробнее:** [О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/fenomen_kids/FenomenKids.md)
 
 ---
 
