@@ -16,10 +16,8 @@
 ---
 
 ## 🎮 Играбельная версия
-👉 [Google Play](https://play.google.com/)  
-👉 [App Store](https://apps.apple.com/)  
-
-*(ссылки добавить при публикации)*  
+👉 [Google Play](https://play.google.com/store/apps/details?id=com.honeybadger.prison.idle.tycoon&hl=en&gl=US)  
+👉 [App Store](https://apps.apple.com/ru/app/idle-mini-prison-tycoon-game/id1551783144)  
 
 ---
 
