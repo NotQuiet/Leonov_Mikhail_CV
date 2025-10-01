@@ -85,6 +85,12 @@
 - **Инструменты:** Git, Jira, Asana  
 
 ---
+## 🛠 Другие проекты
+
+[О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/ZombieHunter/zombie_hunter.md)
+[О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/ZombieHunter/zombie_hunter.md)
+[О проекте](https://github.com/NotQuiet/Leonov_Mikhail_CV/blob/main/projects/ZombieHunter/zombie_hunter.md)
+---
 
 📬 **Связаться со мной:**  
 [Telegram](https://t.me/vanillaatilla) | [Email](mailto:mikhail.work.flow@gmail.com)
