@@ -69,9 +69,9 @@
 - **Multiplayer:** Photon, WebSocket, HTTP, REST API  
 - **DI:** Zenject, VContainer  
 - **Асинхронность:** UniTask, UniRx, async/await  
-- **UI/UX:** DOTween, Clean Architecture (MVP/MVVM), анимации  
-- **Backend:** Node.js, PHP, SQL, серверная архитектура  
-- **DevOps:** CI/CD, Google Tables для конфигурации  
+- **UI/UX:** DOTween, Clean Architecture (MVP/MVC/MVVM), анимации  
+- **Backend:** Node.js, PHP, SQL, серверная архитектура, ASP.NET, HTML/CSS  
+- **DevOps:** CI/CD, Google Tables для конфигурации, Kafka, Docker  
 - **Инструменты:** Git, Jira, Asana  
 
 ---
